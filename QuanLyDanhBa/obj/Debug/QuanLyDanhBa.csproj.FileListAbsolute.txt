@@ -1,0 +1,14 @@
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csprojAssemblyReference.cache
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\DATA\DanhBa.data
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\DATA\Nhom.data
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.frmDanhBa.resources
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.frmDanhBaChiTiet.resources
+C:\Users\PHAN HUNG\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.frmNhom_ChiTiet.resources
